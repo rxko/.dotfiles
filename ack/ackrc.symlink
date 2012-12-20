@@ -1,0 +1,5 @@
+--type-set=scss=.scss
+--type-set=slim=.slim
+--type-set=coffee=.coffee
+--pager=less -r
+

@@ -1,6 +1,6 @@
 [user]
-  name = Ivan Valdes (@ivanvc)
-  email = iv@nvald.es
+	name = Carlos Mondragon
+	email = cadragon@gmail.com
 [alias]
   c = commit
   ci = commit --interactive
@@ -24,11 +24,11 @@
   interactive = auto
 [core]
   excludesfile = ~/.gitignore
-   editor = vim
+  editor = vim
 [apply]
   whitespace = nowarn
 [github]
-  user = ivanvc
+  user = mondras
 [merge]
   tool = opendiff
   summary = true
