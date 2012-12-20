@@ -1,6 +1,3 @@
-# lazy rake alias :P
-alias rk='rake'
-
 # Rails 2.x
 alias sc='script/console'
 alias ss='script/server'
