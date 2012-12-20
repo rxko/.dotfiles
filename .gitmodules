@@ -1,9 +1,6 @@
 [submodule "vim/vim.symlink/bundle/vim-pathogen"]
 	path = vim/vim.symlink/bundle/vim-pathogen
 	url = git://github.com/tpope/vim-pathogen.git
-[submodule "vim/vim.symlink/bundle/vim-irblack"]
-	path = vim/vim.symlink/bundle/vim-irblack
-	url = git://github.com/wgibbs/vim-irblack.git
 [submodule "vim/vim.symlink/bundle/vim-rails"]
 	path = vim/vim.symlink/bundle/vim-rails
 	url = git://github.com/tpope/vim-rails.git
@@ -28,9 +25,6 @@
 [submodule "vim/vim.symlink/bundle/minibufexpl.vim"]
 	path = vim/vim.symlink/bundle/minibufexpl.vim
 	url = git://github.com/fholgado/minibufexpl.vim.git
-[submodule "vim/vim.symlink/bundle/badwolf"]
-	path = vim/vim.symlink/bundle/badwolf
-	url = git://github.com/sjl/badwolf.git
 [submodule "z/rupa-z"]
 	path = z/rupa-z
 	url = git@github.com:rupa/z.git
@@ -46,3 +40,9 @@
 [submodule "vim/vim.symlink/bundle/vim-gnupg"]
 	path = vim/vim.symlink/bundle/vim-gnupg
 	url = git://github.com/jamessan/vim-gnupg.git
+[submodule "vim/vim.symlink/bundle/vim-colors-solarized"]
+	path = vim/vim.symlink/bundle/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized
+[submodule "vim/vim.symlink/bundle/FuzzyFinder"]
+	path = vim/vim.symlink/bundle/FuzzyFinder
+	url = git://github.com/vim-scripts/FuzzyFinder
