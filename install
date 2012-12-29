@@ -1,5 +1,8 @@
 #!/usr/bin/env sh
 
+echo "Installing oh my zsh"
+`curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh`
+
 echo "Initializing git submodules"
 git submodule init
 git submodule update
