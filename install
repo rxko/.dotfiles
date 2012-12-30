@@ -22,7 +22,6 @@ for file in **/*.symlink ; do
       continue
     fi
   fi
-  echo "Processing $target"
   ln -s "$PWD/$file" "$target"
 done
 
