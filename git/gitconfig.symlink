@@ -1,6 +1,6 @@
 [user]
-	name = Carlos Mondragon
-	email = cadragon@gmail.com
+	name = Marco Alvarez
+	email = malvarez@lyft.com
 [alias]
   c = commit
   ci = commit --interactive
@@ -23,12 +23,12 @@
   branch = auto
   interactive = auto
 [core]
-  excludesfile = ~/.gitignore
+	excludesfile = /Users/malvarez/.gitignore_global
   editor = vim
 [apply]
   whitespace = nowarn
 [github]
-  user = mondras
+  user = rxko
 [merge]
   tool = opendiff
   summary = true
